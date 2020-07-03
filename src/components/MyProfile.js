@@ -3,7 +3,7 @@ import {
     Text, View, Modal, Image, StyleSheet,
     ImageBackground,
     ScrollView,
-    ActivityIndicator, Dimensions, Keyboard, TouchableWithoutFeedback, Alert
+    ActivityIndicator, Dimensions, Keyboard, Alert
 } from 'react-native';
 import { TouchableRipple } from 'react-native-paper';
 import auth from '@react-native-firebase/auth';
