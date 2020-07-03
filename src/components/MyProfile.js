@@ -15,8 +15,6 @@ import { ListItem, Item, Toast } from 'native-base';
 import CustomInput from './customs/CustomInput';
 
 
-
-
 export default class MyProfile extends Component {
 
 
